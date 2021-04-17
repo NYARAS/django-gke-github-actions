@@ -1,5 +1,5 @@
 # name of our workflow
-name: Django CI/CD Workflow
+name: Automate GKE CI/CD with Github Workflow
 
 # triggers for our workflow
 on:
